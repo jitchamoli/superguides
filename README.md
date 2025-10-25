@@ -1,4 +1,3 @@
----
 
 ## Table of Contents
 - [Code Quality](#code-quality)
@@ -9,8 +8,6 @@
 - [Documentation](#documentation)
 - [Collaboration](#collaboration)
 - [Tools & Environment](#tools--environment)
-
----
 
 ## Code Quality
 
